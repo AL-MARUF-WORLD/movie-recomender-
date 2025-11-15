@@ -46,8 +46,7 @@ Popularity & vote data
 
 🚀 Live Demo
 
-(Replace this link when your Space is public)
-👉 Live on HuggingFace Spaces: (https://huggingface.co/spaces/AlMARUF69/movie_recommender-1)
+👉 Live on HuggingFace Spaces: (https://huggingface.co/spaces/AlMARUF69/movie_recommender-1
 
 🛠️ Installation
 
@@ -69,6 +68,7 @@ python app.py
 
 🧠 System Architecture
 Movie-Recommender/
+
 │── app.py                     # UI: Streamlit/Gradio App
 │── movie_list.pkl             # Preprocessed movie metadata
 │── similarity_compressed.pkl.gz   # Cosine similarity matrix (compressed)

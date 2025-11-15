@@ -75,7 +75,7 @@ Movie-Recommender/
 │── README.md
 └── .gitattributes
 
-🔍 How It Works (Technical Overview)
+## How It Works (Technical Overview)
 
 Data Preprocessing
 
@@ -112,7 +112,7 @@ def recommend(movie):
 ![UI Screenshot](images/ui.png)
 ![Recommendation Example](images/result.png)
 
-📌 Requirements
+## Requirements
 pandas
 numpy
 scikit-learn

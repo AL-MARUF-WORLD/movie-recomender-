@@ -69,8 +69,8 @@ python app.py
 🧠 System Architecture
 Movie-Recommender/
 
-│── app.py                     # UI: Streamlit/Gradio App
-│── movie_list.pkl             # Preprocessed movie metadata
+│── app.py                      #  UI: Streamlit/Gradio App
+│── movie_list.pkl            # Preprocessed movie metadata
 │── similarity_compressed.pkl.gz   # Cosine similarity matrix (compressed)
 │── requirements.txt
 │── README.md

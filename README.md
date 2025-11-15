@@ -53,7 +53,8 @@ Popularity & vote data
 
 Clone the repository:
 
-git clone (https://github.com/AL-MARUF-WORLD/movie-recomender)
+git clone https://github.com/AL-MARUF-WORLD/movie-recomender
+
 cd movie_recommender
 
 

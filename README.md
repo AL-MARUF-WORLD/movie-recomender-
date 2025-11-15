@@ -47,13 +47,13 @@ Popularity & vote data
 🚀 Live Demo
 
 (Replace this link when your Space is public)
-👉 Live on HuggingFace Spaces: https://huggingface.co/spaces/username/movie_recommender
+👉 Live on HuggingFace Spaces: (https://huggingface.co/spaces/AlMARUF69/movie_recommender-1)
 
 🛠️ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/movie_recommender.git
+git clone (https://github.com/AL-MARUF-WORLD/movie-recomender)
 cd movie_recommender
 
 
